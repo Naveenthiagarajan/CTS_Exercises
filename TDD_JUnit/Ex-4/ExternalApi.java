@@ -1,0 +1,4 @@
+interface ExternalApi {
+
+    String getData();
+}
